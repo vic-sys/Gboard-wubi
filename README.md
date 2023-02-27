@@ -10,8 +10,9 @@
 - 1、一级简码的那二十几个字，受重码影响等于废了
 - 2、没有拼音反查和自动上屏，但好处是不用切换拼音直接打拼音
 - 3、偶尔间歇性的失忆（打出编码后没有调用五笔词条），特别是Gboard更新后的一两天里
+- 4、不支持滑行输入
 
-## 一、感谢
+## 四、感谢
 - wzyboys   https://wzyboy.im/post/1251.html
 - 深蓝词库转换   https://github.com/studyzy/imewlconverter
 
