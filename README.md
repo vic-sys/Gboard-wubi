@@ -3,8 +3,7 @@
 本来使用#Trime，奈何一直没有好的主题，也不能和系统主题统一，好不容易在Github上找到了一个主题，却偶尔输入卡顿。加上有时有发送gif的需求。故探索五笔怎么在Gboard安卓中实现。使用中还是会碰到很多问题，希望大佬指点一二
 
 ## 二、Gborad实现五笔打字的方式：
-- 1、先下载五笔词库，或自己使用深蓝输入法转换工具制作
-- 跳转[releases](https://github.com/vic-sys/Gboard-wubi/releases)
+- 1、先下载五笔词库[releases](https://github.com/vic-sys/Gboard-wubi/releases)，或自己使用深蓝输入法转换工具制作
 - 2、Gboard设置——词典——个人词典——中文简体——右上角导入
 
 ## 三、使用中的问题
