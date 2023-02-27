@@ -4,7 +4,7 @@
 
 ## 二、Gborad实现五笔打字的方式：
 - 1、先下载五笔词库，或自己使用深蓝输入法转换工具制作
-- 跳转releases(https://github.com/vic-sys/Gboard-wubi/releases)
+- 跳转[releases](https://github.com/vic-sys/Gboard-wubi/releases)
 - 2、Gboard设置——词典——个人词典——中文简体——右上角导入
 
 ## 三、使用中的问题
